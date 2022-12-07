@@ -17,6 +17,10 @@ N/A
 
 This website can be used to learn more about the services and benefits provided by this marketing agency. The website is accessible to visitors using screen readers. 
 
+![Website Screenshot](assets/images/MarketingAgencyScreenshot.png)
+
+[Deployed Website Link](https://ameliabigler.github.io/Marketing-Agency-Accessibility/)
+
 ## Credits
 
 Video Tutorial
